@@ -14,11 +14,8 @@ Description: The Oxford Maternal and Neonatal Health study aims to synthesise th
     in order to inform researchers on possible future areas of study. This package
     brings together all the analytic functions created and used for this study.
 License: MIT + file LICENSE
-Imports: papuanewguinea,
-    tidyverse,
-    tidytext
+Imports: papuanewguinea
 Remotes: OMNeoHealth/papuanewguinea
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.0.1
-
+RoxygenNote: 7.0.2
